@@ -1,3 +1,4 @@
+
 /* global */
 @import url('https://fonts.googleapis.com/css?family=Roboto');
 
@@ -108,3 +109,14 @@ h2, .white, a:hover, .caption, ul {
         padding-top: 2rem;
     }
 }
+table{
+    border: 4px, double, black; 
+    justify-self: center;
+}
+td{
+    border: 2px, double, rgb(156, 42, 42);
+}
+table :hover{
+    justify-self: end;
+}
+
