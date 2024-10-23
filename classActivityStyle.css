@@ -1,3 +1,13 @@
-button{
+img{
+    border: double 2px purple; 
+}
+img :hover{
+    border-color:black;
+}
+/* button{
     size: 10px;
 }
+h1{
+    color: blue;
+    justify-self: center;
+} */
