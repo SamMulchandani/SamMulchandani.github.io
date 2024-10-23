@@ -8,7 +8,10 @@
     --secondary-color: #580000; /* Dark Blue */
     --link-color: #002aFF; /* Lighter Blue for links */
     --space-background: #002855; /* Dark Blue */
+    --randomcolor: #232323;
 }
+
+
 
 .grid-2{
     display: grid;
