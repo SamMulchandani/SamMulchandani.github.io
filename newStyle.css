@@ -1,0 +1,9 @@
+img{
+    border: double 30px yellow;
+    width: 50%;
+}
+
+img:hover{
+    border: double 5px black;
+    size: 5px;
+}
