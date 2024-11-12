@@ -1,0 +1,27 @@
+/* Set up an HTML file with a title and a body section. In the body, add:
+- A main heading (e.g., My First Website)
+- A paragraph describing yourself.
+   - A list of your favorite hobbies.
+Create an external CSS file (styles.css) and link it to your HTML file.
+In the CSS file:
+   - Set a background color for the page.
+   - Style the heading to be bold and centered.
+   - Add spacing and font styles to the paragraph and list items. */
+
+body{
+    background-color: beige;
+}
+h1{
+    font-weight: bold;
+    justify-self: center;
+}
+h3{
+    justify-self: center;
+}
+ul{
+    color: blue;
+    line-height: 40px;
+}
+.text p{
+    text-decoration: underline;
+}
