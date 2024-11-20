@@ -1,0 +1,88 @@
+.pkcard1{
+    display: inline-block;
+    height: 445px;
+    width: 340px;
+    background-image: linear-gradient(red 10%, orange 90%);
+    /* background-color: rgb(121, 31, 224); */
+    border-radius: 10px;
+}
+.pkcard1 p{
+    font-size: small;
+    margin: 10px;
+}
+.pkcard1 .pkimage{
+    height: 200px;
+    width: 287px;
+    /* justify-self: left; */
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 0px;
+}
+.pkcard1 .pktitle h2{
+    /* background-color: yellow; */
+    color: aliceblue;
+    margin: 10px;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+
+.pkcard2{
+    display: inline-block;
+    height: 445px;
+    width: 340px;
+    background-image: linear-gradient(lightblue 10%, cyan 90%);
+    /* background-color: rgb(121, 31, 224); */
+    border-radius: 10px;
+}
+.pkcard2 p{
+    font-size: small;
+    margin: 10px;
+}
+.pkcard2 .pkimage{
+    height: 200px;
+    width: 287px;
+    /* justify-self: left; */
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 0px;
+}
+.pkcard2 .pktitle h2{
+    /* background-color: yellow; */
+    color: aliceblue;
+    margin: 10px;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+
+.pkcard3{
+    display: inline-block;
+    height: 445px;
+    width: 340px;
+    background-image: linear-gradient(red 10%, orange 90%);
+    /* background-color: rgb(121, 31, 224); */
+    border-radius: 10px;
+}
+.pkcard3 p{
+    font-size: small;
+    margin: 10px;
+}
+.pkcard3 .pkimage{
+    height: 200px;
+    width: 287px;
+    /* justify-self: left; */
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 0px;
+}
+.pkcard3 .pktitle h2{
+    /* background-color: yellow; */
+    color: aliceblue;
+    margin: 10px;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+
+.example img{
+    height: 445px;
+    width: 340px;
+}
