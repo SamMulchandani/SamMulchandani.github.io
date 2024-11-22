@@ -23,14 +23,14 @@
     color: aliceblue;
     margin: 10px;
     padding-left: 20px;
-    padding-top: 20px;
+    padding-top: 10px;
 }
 
 .pkcard2{
     display: inline-block;
     height: 445px;
     width: 340px;
-    background-image: linear-gradient(lightblue 10%, cyan 90%);
+    background-image: linear-gradient(blue 10%, lightblue 90%);
     /* background-color: rgb(121, 31, 224); */
     border-radius: 10px;
 }
@@ -51,14 +51,14 @@
     color: aliceblue;
     margin: 10px;
     padding-left: 20px;
-    padding-top: 20px;
+    padding-top: 10px;
 }
 
 .pkcard3{
     display: inline-block;
     height: 445px;
     width: 340px;
-    background-image: linear-gradient(red 10%, orange 90%);
+    background-image: linear-gradient(lightgreen 10%, rgb(10, 217, 10) 90%);
     /* background-color: rgb(121, 31, 224); */
     border-radius: 10px;
 }
@@ -76,13 +76,25 @@
 }
 .pkcard3 .pktitle h2{
     /* background-color: yellow; */
-    color: aliceblue;
+    color: black;
     margin: 10px;
     padding-left: 20px;
-    padding-top: 20px;
+    padding-top: 10px;
 }
 
 .example img{
+    height: 445px;
+    width: 340px;
+}
+.description{
+    background-color: lightgray;
+    margin: 5px;
+    padding: 2px;
+    border-radius: 10px;
+}
+
+.back{
+    display: inline-block;
     height: 445px;
     width: 340px;
 }
